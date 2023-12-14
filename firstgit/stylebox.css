@@ -1,0 +1,11 @@
+#b1{
+    font-size: 30px;
+    background-color: brown;
+    margin:auto ;
+    display: flex;
+}
+#b2{
+    font-size: 20px;
+    background-color: yellow;
+    margin: auto;
+}
